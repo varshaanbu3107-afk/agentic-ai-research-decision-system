@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    color-scheme: dark;
+  }
+
+  body {
+    @apply bg-ink text-paper font-sans antialiased;
+  }
+
+  ::selection {
+    @apply bg-teal/40;
+  }
+
+  :focus-visible {
+    outline: 2px solid theme("colors.teal.bright");
+    outline-offset: 2px;
+  }
+}

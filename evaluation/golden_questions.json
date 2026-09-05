@@ -1,0 +1,49 @@
+{
+  "questions": [
+    {
+      "question": "How can AI improve customer support efficiency?",
+      "expected_concepts": [
+        "chatbots",
+        "customer service",
+        "natural language processing",
+        "customer support"
+      ]
+    },
+    {
+      "question": "How can artificial intelligence improve healthcare?",
+      "expected_concepts": [
+        "artificial intelligence",
+        "healthcare",
+        "diagnosis",
+        "patient"
+      ]
+    },
+    {
+      "question": "What are the risks of artificial intelligence?",
+      "expected_concepts": [
+        "risk",
+        "bias",
+        "safety",
+        "privacy"
+      ]
+    },
+    {
+      "question": "How does natural language processing help customer service?",
+      "expected_concepts": [
+        "natural language processing",
+        "customer service",
+        "customer",
+        "language"
+      ]
+    },
+    {
+      "question": "What are the benefits of AI chatbots?",
+      "expected_concepts": [
+        "chatbot",
+        "customer service",
+        "response",
+        "efficiency"
+      ]
+    }
+  ]
+}
